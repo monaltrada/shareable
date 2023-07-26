@@ -1,0 +1,8 @@
+[06-Jun-2023 09:16:09 UTC] PHP Warning:  require(/home/kirzibay1jdh/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/kirzibay1jdh/public_html/index.php on line 24
+[06-Jun-2023 09:16:09 UTC] PHP Fatal error:  require(): Failed opening required '/home/kirzibay1jdh/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kirzibay1jdh/public_html/index.php on line 24
+[06-Jun-2023 09:16:59 UTC] PHP Warning:  require(/home/kirzibay1jdh/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/kirzibay1jdh/public_html/index.php on line 24
+[06-Jun-2023 09:16:59 UTC] PHP Fatal error:  require(): Failed opening required '/home/kirzibay1jdh/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kirzibay1jdh/public_html/index.php on line 24
+[06-Jun-2023 09:17:42 UTC] PHP Warning:  require(/home/kirzibay1jdh/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/kirzibay1jdh/public_html/index.php on line 24
+[06-Jun-2023 09:17:42 UTC] PHP Fatal error:  require(): Failed opening required '/home/kirzibay1jdh/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kirzibay1jdh/public_html/index.php on line 24
+[07-Jun-2023 06:03:07 UTC] PHP Fatal error:  Cannot use App\Models\Service as Service because the name is already in use in /home/kirzibay1jdh/public_html/app/Http/Controllers/PagesController.php on line 12
+[07-Jun-2023 06:03:33 UTC] PHP Fatal error:  Cannot use App\Models\Portfolio as Portfolio because the name is already in use in /home/kirzibay1jdh/public_html/app/Http/Controllers/PagesController.php on line 13

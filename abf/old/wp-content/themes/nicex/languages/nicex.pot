@@ -1,0 +1,564 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Nicex\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-29 14:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: nicex"
+
+#: 404.php:22
+msgid "404 page"
+msgstr ""
+
+#: functions.php:65
+msgid "Accent"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:29
+#: inc/framework/setup/section-colors.php:215
+msgid "Accent Color"
+msgstr ""
+
+#: inc/theme-required-plugins.php:18
+msgid "Advanced Custom Fields PRO"
+msgstr ""
+
+#: footer.php:17
+msgid "Back To Top"
+msgstr ""
+
+#: inc/framework/setup/section-general.php:25
+msgid "Back To Top Button"
+msgstr ""
+
+#: inc/framework/setup/section-header.php:48
+msgid "Background Blur Effect"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:184
+#: inc/framework/setup/section-colors.php:388
+msgid "Background Color"
+msgstr ""
+
+#: inc/framework/setup/section-menu.php:23
+msgid "Background conrols are pretty complex! (but useful if used properly)"
+msgstr ""
+
+#: inc/framework/setup/section-menu.php:22
+msgid "Background Control"
+msgstr ""
+
+#: functions.php:75
+msgid "Black"
+msgstr ""
+
+#: inc/theme-actions.php:9
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/framework/setup/section-menu.php:13
+msgid "Button"
+msgstr ""
+
+#: comments.php:42
+msgid "Cancel Reply"
+msgstr ""
+
+#: inc/framework/setup/section-footer.php:11
+#: inc/framework/setup/section-menu.php:56
+msgid "Choose an option"
+msgstr ""
+
+#: template-parts/menu/button.php:10
+msgid "Close"
+msgstr ""
+
+#: inc/theme-elementor.php:110
+msgid "Color"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:123
+#: inc/framework/setup/section-colors.php:319
+msgid "Color Contrast Low"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:154
+#: inc/framework/setup/section-colors.php:350
+msgid "Color Contrast Lower"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:92
+#: inc/framework/setup/section-colors.php:288
+msgid "Color Contrast Medium"
+msgstr ""
+
+#: inc/framework/customizer.php:102
+msgid "Colors"
+msgstr ""
+
+#: comments.php:29
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/theme-functions.php:449
+#, php-format
+msgctxt "comments title"
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-required-plugins.php:38
+msgid "Contact Form 7"
+msgstr ""
+
+#: single.php:58
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: functions.php:80
+msgid "Contrast"
+msgstr ""
+
+#: functions.php:90
+msgid "Contrast lower"
+msgstr ""
+
+#: functions.php:85
+msgid "Contrast Medium"
+msgstr ""
+
+#: inc/theme-functions.php:117
+msgid "Create a Template First"
+msgstr ""
+
+#. Name of the template
+msgid "Custom Page No Footer"
+msgstr ""
+
+#. Name of the template
+msgid "Custom Page Template"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:17
+msgid "Dark Mode"
+msgstr ""
+
+#: inc/framework/setup/section-header.php:38
+#: inc/framework/setup/section-menu.php:12
+msgid "Default"
+msgstr ""
+
+#: template-parts/page/page-none.php:20
+msgid "didnt return any results."
+msgstr ""
+
+#: inc/framework/setup/section-header.php:8
+#: inc/framework/setup/section-logo.php:8
+msgid "Dimensions Control"
+msgstr ""
+
+#: inc/framework/setup/section-general.php:17
+#: inc/framework/setup/section-general.php:31
+#: inc/framework/setup/section-general.php:45
+#: inc/framework/setup/section-header.php:54
+msgid "Disable"
+msgstr ""
+
+#: inc/theme-functions.php:402
+msgid "Edit"
+msgstr ""
+
+#: single.php:67
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/theme-required-plugins.php:12
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: comments.php:47
+msgid "Email"
+msgstr ""
+
+#: inc/framework/setup/section-general.php:16
+#: inc/framework/setup/section-general.php:30
+#: inc/framework/setup/section-general.php:44
+#: inc/framework/setup/section-header.php:53
+msgid "Enable"
+msgstr ""
+
+#: inc/framework/setup/section-header.php:39
+msgid "Fixed"
+msgstr ""
+
+#: inc/framework/customizer.php:75
+msgid "Footer"
+msgstr ""
+
+#: inc/framework/setup/section-logo.php:35
+msgid "For Dark Theme Mode"
+msgstr ""
+
+#: inc/framework/setup/section-logo.php:46
+msgid "For Light Theme Mode"
+msgstr ""
+
+#: inc/framework/customizer.php:23
+msgid "General"
+msgstr ""
+
+#: inc/framework/customizer.php:115
+msgid "Google Map"
+msgstr ""
+
+#: inc/framework/customizer.php:36
+msgid "Header"
+msgstr ""
+
+#: 404.php:18
+msgid "homepage."
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/madsparrow"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themeforest.net/user/madsparrow/portfolio"
+msgstr ""
+
+#: functions.php:125
+msgid "Huge"
+msgstr ""
+
+#: inc/framework/setup/section-logo.php:45
+msgid "Image Logo Dark"
+msgstr ""
+
+#: inc/framework/setup/section-logo.php:34
+msgid "Image Logo Light"
+msgstr ""
+
+#: template-parts/page/page-none.php:20
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Your search for "
+"\""
+msgstr ""
+
+#: inc/theme-required-plugins.php:32
+msgid "Kirki"
+msgstr ""
+
+#: functions.php:120
+msgid "L"
+msgstr ""
+
+#: functions.php:119
+msgid "Large"
+msgstr ""
+
+#: index.php:26
+msgid "Latest Stories"
+msgstr ""
+
+#: comments.php:36
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:41
+msgid "Leave a reply to"
+msgstr ""
+
+#: inc/elementor/column.php:70
+msgid "Left"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:16
+msgid "Light Mode"
+msgstr ""
+
+#: inc/framework/customizer.php:49
+msgid "Logo"
+msgstr ""
+
+#: functions.php:114
+msgid "M"
+msgstr ""
+
+#. Author of the theme
+msgid "Mad Sparrow"
+msgstr ""
+
+#: inc/theme-required-plugins.php:44
+msgid "MC4WP: Mailchimp for WordPress"
+msgstr ""
+
+#: inc/framework/customizer.php:62 template-parts/menu/button.php:9
+#: template-parts/menu/default.php:3
+msgid "Menu"
+msgstr ""
+
+#: inc/framework/setup/section-menu.php:53
+msgid "Menu Contacts"
+msgstr ""
+
+#: inc/framework/setup/section-menu.php:9
+msgid "Menu Variation"
+msgstr ""
+
+#: inc/elementor/column.php:94
+msgid "Min Width"
+msgstr ""
+
+#: comments.php:46
+msgid "Name"
+msgstr ""
+
+#: inc/theme-elementor.php:45 inc/theme-elementor.php:52
+msgid "Navbar Offset"
+msgstr ""
+
+#: inc/theme-elementor.php:61
+msgid "Navbar Offset (With Padding)"
+msgstr ""
+
+#: single.php:97
+msgid "Next Article"
+msgstr ""
+
+#: single-portfolios.php:24
+msgid "Next Project"
+msgstr ""
+
+#. Name of the theme
+msgid "Nicex"
+msgstr ""
+
+#: inc/theme-required-plugins.php:25
+msgid "Nicex Helper Plugin"
+msgstr ""
+
+#: inc/framework/customizer.php:14
+msgid "NiceX Theme Options"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Nicex – brings your site to life with immersive featured images and subtle "
+"animations. With a focus on portfolio sites, it features multiple sections "
+"on the front page as well as widgets, navigation and social menus, a logo, "
+"and more. Personalize its asymmetrical grid with a custom color scheme and "
+"showcase your multimedia content with post formats. Our theme works great in "
+"many languages, for any abilities, and on any device."
+msgstr ""
+
+#: template-parts/page/page-none.php:12
+msgid "No matches found"
+msgstr ""
+
+#: inc/theme-functions.php:537 inc/theme-functions.php:561
+msgid "No more projects"
+msgstr ""
+
+#: functions.php:113
+msgid "Normal"
+msgstr ""
+
+#: inc/theme-required-plugins.php:50
+msgid "One Click Demo Import"
+msgstr ""
+
+#: template-parts/page/page-content.php:28
+msgid "Page"
+msgstr ""
+
+#: inc/framework/setup/section-general.php:11
+msgid "Page transition"
+msgstr ""
+
+#: inc/theme-functions.php:458 template-parts/page/page-content.php:24
+msgid "Pages:"
+msgstr ""
+
+#: comments.php:35
+msgid "Post Comment"
+msgstr ""
+
+#: inc/theme-functions.php:627 inc/theme-functions.php:644
+msgid "Previous"
+msgstr ""
+
+#: single.php:85
+msgid "Previous Article"
+msgstr ""
+
+#: functions.php:60
+msgid "Primary"
+msgstr ""
+
+#: inc/framework/setup/section-typography.php:8
+msgid "Primary Font"
+msgstr ""
+
+#: functions.php:14
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:60
+#: inc/framework/setup/section-colors.php:256
+msgid "Primary Text Color"
+msgstr ""
+
+#: template-parts/post/card.php:60
+msgid "Read"
+msgstr ""
+
+#: archive.php:50 search.php:52 template-parts/excerpt/excerpt-content.php:34
+msgid "Read More"
+msgstr ""
+
+#: single.php:112
+msgid "Related Posts"
+msgstr ""
+
+#: inc/elementor/column.php:82
+msgid "Reset Mobile"
+msgstr ""
+
+#: inc/elementor/column.php:71
+msgid "Right"
+msgstr ""
+
+#: functions.php:108
+msgid "S"
+msgstr ""
+
+#: search.php:20
+msgid "Search results: "
+msgstr ""
+
+#: searchform.php:3
+msgid "Search..."
+msgstr ""
+
+#: inc/framework/setup/section-typography.php:29
+msgid "Secondary Font"
+msgstr ""
+
+#: inc/theme-functions.php:109
+msgid "Select a Template"
+msgstr ""
+
+#: inc/framework/setup/section-footer.php:8
+msgid "Select Footer Template"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:30
+#: inc/framework/setup/section-colors.php:216
+msgid "Select the Accent Color"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:185
+#: inc/framework/setup/section-colors.php:389
+msgid "Select the background color"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:11
+msgid "Select Website Mode"
+msgstr ""
+
+#: inc/elementor/column.php:66
+msgid "Side"
+msgstr ""
+
+#: functions.php:107
+msgid "Small"
+msgstr ""
+
+#: inc/framework/setup/section-header.php:40
+msgid "Sticky"
+msgstr ""
+
+#: inc/elementor/column.php:46
+msgid "Sticky Column"
+msgstr ""
+
+#: inc/elementor/column.php:56
+msgid "Stretch"
+msgstr ""
+
+#: inc/framework/setup/section-header.php:35
+msgid "Style"
+msgstr ""
+
+#: functions.php:70
+msgid "Success"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:61
+#: inc/framework/setup/section-colors.php:257
+msgid "Text color"
+msgstr ""
+
+#: inc/framework/setup/section-google.php:8
+msgid "Text Control"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"The page you are looking for does not exist. How you got here is a mystery. "
+"But you can click the button below to go back to the"
+msgstr ""
+
+#: footer.php:35
+msgid "Theme Mode"
+msgstr ""
+
+#: inc/framework/setup/section-general.php:39
+msgid "Theme Mode Switcher"
+msgstr ""
+
+#: template-parts/page/page-none.php:22
+msgid "Try a new search:"
+msgstr ""
+
+#: inc/framework/customizer.php:89
+msgid "Typography"
+msgstr ""
+
+#: 404.php:16
+msgid "UH OH! You are lost."
+msgstr ""
+
+#: inc/theme-elementor.php:79 inc/theme-elementor.php:86
+msgid "Vertical Lines"
+msgstr ""
+
+#: functions.php:95
+msgid "White"
+msgstr ""
+
+#: functions.php:126
+msgid "XL"
+msgstr ""
+
+#: comments.php:48
+msgid "Your Comment"
+msgstr ""
+
+#: inc/theme-elementor.php:95
+msgid "Z-Index"
+msgstr ""

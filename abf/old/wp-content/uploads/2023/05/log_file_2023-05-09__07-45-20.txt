@@ -1,0 +1,27 @@
+
+---Downloaded files---
+The import files for: Nicex Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://abfstudios.in
+Data file = /home/kirzibay1jdh/public_html/wp-content/uploads/2023/05/demo-content-import-file_2023-05-09__07-45-20.xml
+Widget file = /home/kirzibay1jdh/public_html/wp-content/uploads/2023/05/demo-widgets-import-file_2023-05-09__07-45-20.json
+Customizer file = /home/kirzibay1jdh/public_html/wp-content/uploads/2023/05/demo-customizer-import-file_2023-05-09__07-45-20.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+NiceX: Recent Thumbnail Posts - No Title - Imported
+Categories - No Title - Widget already exists
+Mailchimp Sign-Up Form - Newsletter - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
