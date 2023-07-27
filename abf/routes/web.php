@@ -91,7 +91,6 @@ Route::post('admin-home/login', [LoginController::class, 'login']);
 Route::get('admin-home/register', function () { return view('pages.register'); });
 
 Route::post('admin-home/register', [RegisterController::class, 'register']);
-    Route::post('admin-home/register/v2', [RegisterController::class, 'register']);
 
 
 
