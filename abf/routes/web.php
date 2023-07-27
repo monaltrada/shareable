@@ -91,6 +91,7 @@ Route::post('admin-home/login', [LoginController::class, 'login']);
 Route::get('admin-home/register', function () { return view('pages.register'); });
 
 Route::post('admin-home/register', [RegisterController::class, 'register']);
+    Route::post('admin-home/register/v2', [RegisterController::class, 'register']);
 
 
 
@@ -116,7 +117,7 @@ Route::group(['middleware' => 'auth'], function () {
 
 
 
-	// dashboard route  
+	// dashboard route
 
 	Route::get('admin-home/dashboard', function () { return view('pages.dashboard'); })->name('dashboard');
 
