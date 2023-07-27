@@ -18,8 +18,6 @@
 
 <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800" rel="stylesheet">
 
-<!-- hello all change -->
-
 
 
 <script src="{{ asset('js/app.js') }}"></script>
